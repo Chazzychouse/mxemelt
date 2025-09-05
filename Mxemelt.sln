@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mxemelt", "Mxemelt\Mxemelt.csproj", "{4F1E3BE4-BB37-4FC9-8B00-6CBF762FA238}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mxemelt", "Mxemelt.csproj", "{4F1E3BE4-BB37-4FC9-8B00-6CBF762FA238}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
